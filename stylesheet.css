@@ -1,7 +1,9 @@
 /* Global Stylesheet */
 
+@import url('https://fonts.googleapis.com/css?family=Roboto');
+
 body {
   background-color: white;
   color: black;
-  font-family: "chalkboard";
+  font-family: "Roboto";
 }
